@@ -1,0 +1,41 @@
+body {
+    background-color:black;
+    }
+h1{
+    color:teal;
+    font-size:  80px; 
+    font-family: Arial; 
+    text-align:center
+}
+h2{
+    color:teal;
+    font-size:  60px; 
+    font-family: Arial; 
+    text-align:center
+}
+h3{
+    color:rgb(40, 214, 214);
+    font-size:  50px; 
+    font-family: Arial; 
+    text-align:center
+}
+div{
+    background-color:rgba(0, 255, 225, 0.966);
+    font-size: 70px; 
+    font-family: Arial; 
+    text-align:left
+}
+dl{
+    color:rgba(0, 255, 225, 0.966);
+    font-size: 60px; 
+    font-family: Arial; 
+    text-align:left
+}
+
+p{
+    color:rgba(0, 255, 225, 0.966);
+    font-size: 50px; 
+    font-family: Arial; 
+    text-align:left
+    
+}
